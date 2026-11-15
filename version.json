@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 14,
-  "latestVersionName": "v2.0.5",
-  "pesanUpdate": "Update ALUKI v2.0.5 — Perbaikan sistem dan optimasi.",
-  "linkAPK": "https://github.com/ALUKI285/aluki-aide-update/releases/download/v2.0.5/ALUKI.apk"
+  "latestVersionName": "v14",
+  "linkAPK": "https://github.com/ALUKI285/aluki-aide-update/raw/main/aluki_update.apk",
+  "changelog": "• Perbaikan bug unduhan\n• Fitur Grafik HD\n• Notifikasi GitHub"
 }
