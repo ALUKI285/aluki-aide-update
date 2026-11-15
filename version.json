@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 14,
-  "latestVersionName": "v14",
-  "linkAPK": "https://github.com/ALUKI285/aluki-aide-update/raw/main/aluki_update.apk",
-  "changelog": "• Perbaikan bug unduhan\n• Fitur Grafik HD\n• Notifikasi GitHub"
+  "latestVersionCode": 12,
+  "latestVersionName": "v2.0.5",
+  "pesanUpdate": "Update perbaiki sistem",
+  "linkAPK": "https://github.com/ALUKI285/aluki-aide-update/releases/download/v2.0.5/ALUKIPRO.apk"
 }
